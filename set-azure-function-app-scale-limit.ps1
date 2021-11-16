@@ -9,8 +9,8 @@
 ### INPUT ###
 
 $subscriptionId="<TODO: set your Azure subscription ID here>"
-$resourceGroupName = "app-blog-rg"
-$functionAppName = "app-blog-func-app"
+$resourceGroupName = "<TODO: set your resource group name here>"
+$functionAppName = "<TODO: set your Azure Function App name here>"
 $functionAppScaleLimit=10
 
 
